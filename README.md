@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React,HTML,CSS,JavaScript**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GJ2cEPTqS3GLBEG94xO-XnQxe9kLAoTd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11PvOwVvKXoumIPU1TzUpUx2Ol6FLjW_V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
