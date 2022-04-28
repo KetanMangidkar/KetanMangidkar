@@ -6,8 +6,11 @@ who can adapt to new ideas and create innovative solutions. Look forward to
 working on a challenging project in a growth oriented organisation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanmangidkar&label=Profile%20views&color=0e75b6&style=flat" alt="ketanmangidkar" /> </p>
+<br>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanmangidkar" alt="ketanmangidkar" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanmangidkar" alt="ketanmangidkar" align="right" /></a> </p> </br>
 
 - 🌱 I’m currently learning **MERN Stack**
 
