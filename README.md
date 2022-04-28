@@ -7,10 +7,13 @@ working on a challenging project in a growth oriented organisation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanmangidkar&label=Profile%20views&color=0e75b6&style=flat" alt="ketanmangidkar" /> </p>
 <br>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="center">
+<p align="center">
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </p>
+ </br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanmangidkar" alt="ketanmangidkar" align="right" /></a> </p> </br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanmangidkar" alt="ketanmangidkar" align="right" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -19,6 +22,7 @@ working on a challenging project in a growth oriented organisation.</h3>
 - 📫 How to reach me **ketanmangidkar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11PvOwVvKXoumIPU1TzUpUx2Ol6FLjW_V/view?usp=sharing](https://drive.google.com/file/d/11PvOwVvKXoumIPU1TzUpUx2Ol6FLjW_V/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
