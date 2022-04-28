@@ -29,7 +29,7 @@ working on a challenging project in a growth oriented organisation.</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketanmangidkar&show_icons=true&locale=en&layout=compact" alt="ketanmangidkar" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ketanmangidkar&show_icons=true&locale=en" alt="ketanmangidkar" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ketanmangidkar&show_icons=true&locale=en" alt="ketanmangidkar" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanmangidkar&" alt="ketanmangidkar" /></p>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanmangidkar&" alt="ketanmangidkar" /></p>
 
