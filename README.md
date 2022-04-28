@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ketan Mangidkar</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer</h3>
+<h3 align="center">An ambitious and Self-motivated full stack web developer. Self-disciplined and
+goal-oriented professional capable of completing assignments within a given
+timeline. Team collaborator with good communication and interpersonal skills
+who can adapt to new ideas and create innovative solutions. Look forward to
+working on a challenging project in a growth oriented organisation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanmangidkar&label=Profile%20views&color=0e75b6&style=flat" alt="ketanmangidkar" /> </p>
 
