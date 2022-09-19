@@ -15,7 +15,7 @@ working on a challenging project in a growth oriented organisation.</h3>
 
 - 📫 How to reach me **ketanmangidkar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11PvOwVvKXoumIPU1TzUpUx2Ol6FLjW_V/view?usp=sharing](https://drive.google.com/file/d/11PvOwVvKXoumIPU1TzUpUx2Ol6FLjW_V/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1mweDsguhgVazUsORaF3HyXMGp3p_pla1?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
