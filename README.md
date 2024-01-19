@@ -1,4 +1,4 @@
-<h1 align="center">Ketan Mangidkar - Full-Stack Web Developer</h1>
+<h1 align="center">Ketan Mangidkar</h1>
 <h3 align="center">Experienced full-stack web developer with one year focused on frontend development. Proven track record in delivering quality work within deadlines. A disciplined and adaptable team player with strong communication skills. Eager to contribute expertise to challenging projects in a growth-oriented environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanmangidkar&label=Profile%20views&color=0e75b6&style=flat" alt="ketanmangidkar" /> </p>
